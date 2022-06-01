@@ -15,6 +15,10 @@ mv push ~/../usr/bin
 
 ## Instructions For Usage
 
+Now you can use push from anywhere just type
+push and press enter and enter your commit message
+and press enter. You are done, Yes you are done
+
 ```
 push
 
