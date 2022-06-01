@@ -30,7 +30,7 @@ and press enter. You are done, Yes you are done
 push
 
 //Do not use quotes
-Enter Your Message: 
+Enter Your Commit Message: 
 
 
 ```
