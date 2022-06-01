@@ -1,0 +1,11 @@
+#!/bin/bash
+
+git add .
+
+echo -e "Enter your message: \c"
+
+read -r message
+
+git commit -m $"$message"
+
+git push
