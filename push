@@ -4,7 +4,7 @@ git add .
 
 echo -e "Enter your message: \c"
 
-read -r message
+read -e  -r message
 
 git commit -m $"$message"
 
