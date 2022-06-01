@@ -4,7 +4,9 @@ You only need to enter your commit message.
 
 ## Instructions For Setting Up
 
-**Clone the project**
+Clone the project and cd into github directory and movep
+ush
+
 ```
 //change directory to github
 cd github
