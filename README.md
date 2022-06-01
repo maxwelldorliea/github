@@ -24,7 +24,8 @@ mv push ~/../usr/bin
 
 Now you can use push from anywhere just type
 push and press enter and enter your commit message
-and press enter. You are done, Yes you are done
+and press enter. You are done, Yes you are done!
+
 
 ```
 push
@@ -35,6 +36,6 @@ Enter Your Commit Message:
 
 ```
 
-
+Happy Coding (^ ^)
 
 **Made with ❤️ by Maxwell**
