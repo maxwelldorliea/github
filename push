@@ -2,7 +2,7 @@
 
 git add .
 
-echo -e "Enter your message: \c"
+echo -e "Enter Your Commit Message: \c"
 
 read -e  -r message
 
