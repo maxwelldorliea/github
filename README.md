@@ -4,12 +4,17 @@ You only need to enter your commit message.
 
 ## Instructions For Setting Up
 
-Clone the project and cd into github directory and movep
-ush
+Clone the project and cd into github directory and move
+push executable file to the bin directory so
+that it a be accessible globally
 
 ```
+//clones the project
+git clone https://github.com/Maxcarrassco/github.git
+
 //change directory to github
 cd github
+
 //move push to the bin dir to makes it global
 mv push ~/../usr/bin
 
@@ -29,3 +34,7 @@ Enter Your Message:
 
 
 ```
+
+
+
+**Made with ❤️ by Maxwell**
