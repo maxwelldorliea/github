@@ -17,6 +17,8 @@ cd github
 
 //move push to the bin dir to makes it global
 mv push /usr/bin
+      or 
+mv push ~/../usr/bin
 
 ```
 
