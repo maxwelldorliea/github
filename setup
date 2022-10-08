@@ -1,5 +1,5 @@
 #!/usr/bin/bash
 # moves command to the /usr/bin directory for easy usage
-sudo mv push /usr/bin/
+cp push /usr/bin/
 # or
-sudo mv push ~/../usr/bin/
+cp push ~/../usr/bin/
