@@ -16,9 +16,7 @@ git clone https://github.com/Maxcarrassco/github.git
 cd github
 
 //move push to the bin dir to makes it global
-mv push /usr/bin
-      or 
-mv push ~/../usr/bin
+./setup
 
 ```
 
@@ -31,6 +29,9 @@ and press enter. You are done, Yes you are done!
 
 ```
 push
+
+//Enter Y to pull online changes, N or nothing to not pull
+Would You Like To Pull Online Changes Locally? [Y/N]:
 
 //Do not use quotes
 Enter Your Commit Message: 
