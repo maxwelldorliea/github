@@ -6,16 +6,16 @@ You only need to enter your commit message.
 
 Clone the project and cd into github directory and move
 push executable file to the bin directory so
-that it a be accessible globally
+that it can be accessible globally
 
 ```
-//clones the project
+//clone the project
 git clone https://github.com/Maxcarrassco/github.git
 
 //change directory to github
-cd github
+cd github/
 
-//move push to the bin dir to makes it global
+//move push to the bin dir to make it global and easier to use
 ./setup
 
 ```
