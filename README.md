@@ -4,7 +4,7 @@ You only need to enter your commit message.
 
 ## Instructions For Setting Up
 
-Clone the project and cd into github directory and move
+Clone the project and cd into github directory and copy 
 push executable file to the bin directory so
 that it can be accessible globally
 
@@ -15,7 +15,7 @@ git clone https://github.com/Maxcarrassco/github.git
 //change directory to github
 cd github/
 
-//move push to the bin dir to make it global and easier to use
+//Copy push to the bin dir to make it global and easier to use
 ./setup
 
 ```
