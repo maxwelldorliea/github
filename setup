@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+# moves command to the /usr/bin directory for easy usage
+cp push /usr/bin/
+# or
+cp push ~/../usr/bin/

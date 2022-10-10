@@ -2,7 +2,16 @@
 
 git add .
 
-echo -e "Enter Your Commit Message: \c"
+echo -e "Would You Like To Pull Online Changes Locally? [Y/N]:"
+
+read -e -r answer
+
+if [[ "$answer" == "Y" ]]
+then
+	git pull
+fi
+
+echo -e "Enter Your Commit Message Without Qoutes: \c"
 
 read -e  -r message
 
